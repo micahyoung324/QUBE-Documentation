@@ -1,3 +1,9 @@
+---
+description: >-
+  NOTE: This book is work-in-process. Message geerky42 on Discord for info /
+  request
+---
+
 # Table of Contents
 
 ## [introduction-and-acknowledgement.md](introduction-and-acknowledgement.md "mention")
