@@ -64,3 +64,7 @@
 ### Tough Going
 
 * [tough-going.md](q.u.b.e.-10th-anniversary/tough-going.md "mention")
+
+***
+
+## [additional-resources.md](additional-resources.md "mention")

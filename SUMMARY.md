@@ -44,3 +44,7 @@
 * [Sector 7](q.u.b.e.-10th-anniversary/sector-7.md)
 * [Sector 8](q.u.b.e.-10th-anniversary/sector-8.md)
 * [Tough Going](q.u.b.e.-10th-anniversary/tough-going.md)
+
+***
+
+* [Additional Resources](additional-resources.md)
