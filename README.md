@@ -2,6 +2,8 @@
 
 ## [introduction-and-acknowledgement.md](introduction-and-acknowledgement.md "mention")
 
+## [additional-resources.md](additional-resources.md "mention")
+
 ***
 
 ## Q.U.B.E. v1.0
@@ -64,7 +66,3 @@
 ### Tough Going
 
 * [tough-going.md](q.u.b.e.-10th-anniversary/tough-going.md "mention")
-
-***
-
-## [additional-resources.md](additional-resources.md "mention")
